@@ -6,3 +6,10 @@
 - Laravel 7.26.1
 - Laravel Collective 6.0
 - MySQL 8.0
+
+### CLI
+
+- composer require laravelcollective/html
+- composer require laravel/ui
+- php artisan ui bootstrap --auth
+- php artisan migrate
